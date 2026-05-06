@@ -1,7 +1,7 @@
 # ¡Hola, soy Nicolás! 👋
 ### Científico de Datos y Economista
 
-Soy un apasionado por los datos y la inteligencia artificial, con experiencia en el análisis de datos, modelado estadístico y *storytelling*[cite: 1]. Mi enfoque está en transformar datos complejos en soluciones tecnológicas que generen un impacto real y medible en la toma de decisiones estratégicas.
+Soy un apasionado por los datos y la inteligencia artificial, con experiencia en el análisis de datos, modelado estadístico y *storytelling*. Mi enfoque está en transformar datos complejos en soluciones tecnológicas que generen un impacto real y medible en la toma de decisiones estratégicas.
 
 ## 👨‍💻 Sobre mí
 
